@@ -9,7 +9,7 @@ class TestCase(unittest.TestCase):
 
     def test_subtract_1(self):
         self.assertEqual(example.subtract(1, 1), 0)
-    
+ 
     def test_multiply_1(self):
         self.assertEqual(example.multiply(2, 1), 2)
 
